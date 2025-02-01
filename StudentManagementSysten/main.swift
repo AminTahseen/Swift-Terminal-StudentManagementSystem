@@ -6,6 +6,8 @@
 //
 
 import Foundation
+// student management system
 
-print("Hello, World!")
+let studentManagementSystem=StudentManagementSystem()
+studentManagementSystem.showMenu()
 
